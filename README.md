@@ -10,6 +10,9 @@ terminate when the user selects 'N'.
 
 # Groups Versions
 Go to [Emanuel Ramos Version](https://github.com/Sledgehammer5568/Mod_6_Team_project/blob/5900a36d005e6d333983cf8379e33a5f7a3b94f2/Mod_6_Group_Project.py).
+
 Go to [David Serna Version](https://github.com/Sledgehammer5568/Mod_6_Team_project/blob/e403013b3e1d71d7d0e8e1ded81ccc8c63040efe/Mod_6_Group_Project.py).
-Go to [Camryn Echevarria Version](https://github.com/Sledgehammer5568/Mod_6_Team_project/blob/b5e12ff7fd975b7f64cbcc7416d8d8546fcab876/Mod_6_Group_Project.py).
-Go to [Jose Lopez Version]().
+
+Go to [Camryn Echevarria Version]().
+
+Go to [Jose Lopez Version](https://github.com/Sledgehammer5568/Mod_6_Team_project/blob/b5e12ff7fd975b7f64cbcc7416d8d8546fcab876/Mod_6_Group_Project.py).
