@@ -7,7 +7,7 @@
 # Last updated by David Serna on, 11/10/2022
 #
 # Description: a program that runs a guessing game
-# problems: if anything else but a number is imputted it breaks the program
+# problems: if anything else but a number is inputted it breaks the program
 
 import random
 # explain what the code will do
